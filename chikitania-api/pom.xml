@@ -23,7 +23,7 @@
         <mainClass>com.chikitania.ChikitaniaApplication</mainClass>
 
         <junit.version>4.12</junit.version>
-        <h2.version>1.4.192</h2.version>
+        <h2.version>2.1.210</h2.version>
     </properties>
 
 
